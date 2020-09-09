@@ -1,0 +1,17 @@
+API Key (v3 auth)
+cbed315648fa234336f539460db5c3f6
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=cbed315648fa234336f539460db5c3f6
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjYmVkMzE1NjQ4ZmEyMzQzMzZmNTM5NDYwZGI1YzNmNiIsInN1YiI6IjVmMDc1ZmQxMWY5OGQxMDAzODE2YzA2NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.dGH8hIqg_JLoMOKECLzKy49N9Y4Qrn_rlMMlojA-wns
+
+/*********************?
+
+install axio by runnning command 
+npm i axios
+
+Why we need axios ?
+this will help us to send request from our code to database /api to get the movie infos
+
